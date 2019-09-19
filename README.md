@@ -3,6 +3,7 @@ Here I'm testing Jupyter and Pandas for playing around with some data science an
 
 ## To start
 1. Install requirements `pip3 install -r requirements.txt`
+1. Copy `.env.template` to `.env` and put in your creds
 1. In this directory run `jupyter notebook`
 
 ## Todos

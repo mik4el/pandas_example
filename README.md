@@ -8,8 +8,8 @@ Here I'm testing Jupyter and Pandas for playing around with some data science an
 
 ## Todos
 * Get data from Monday from Omni board
-* Show some data from Monday in Jupyter notebook
-* Make something useful
+* Show some data from Monday in Jupyter notebook: "Top creators of updates"
+* Make something useful for product team
 
 ## Notes
 `pokemon_data.csv` from https://github.com/KeithGalli/pandas and the tutorial at https://www.youtube.com/watch?v=vmEHCJofslg
